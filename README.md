@@ -111,5 +111,3 @@ Output is valid JSON:
 ## License
 
 MIT License
-
-```
