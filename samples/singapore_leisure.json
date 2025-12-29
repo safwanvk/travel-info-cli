@@ -1,0 +1,25 @@
+python travel_info.py "Singapore" leisure
+{
+  "place": "Singapore",
+  "purpose": "leisure",
+  "overview": [
+    "Discover stunning gardens and futuristic landmarks.",
+    "Savor diverse cuisine, from hawker fare to gourmet dining.",
+    "Enjoy world-class shopping and vibrant entertainment.",
+    "Explore family-friendly attractions and cultural neighborhoods."
+  ],
+  "things_to_know": [
+    "English is widely spoken.",
+    "Public transport (MRT) is efficient and extensive.",
+    "Tipping is not customary.",
+    "Chewing gum is prohibited.",
+    "Tap water is safe to drink."
+  ],
+  "nearby_transport": [
+    "MRT (Mass Rapid Transit) train system",
+    "Public bus network",
+    "Taxis and ride-sharing services"
+  ],
+  "how_to_get_there": "Changi Airport (SIN) is the main international gateway.",
+  "best_time_to_travel": "February to April for drier weather and outdoor activities."
+}

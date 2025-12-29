@@ -1,0 +1,26 @@
+python travel_info.py "Bengaluru" business
+
+{
+  "place": "Bengaluru",
+  "purpose": "business",
+  "overview": [
+    "India's premier IT hub, ideal for tech-related business ventures.",
+    "Hosts numerous multinational corporations and thriving startup ecosystem.",
+    "Excellent for professional networking and industry conferences.",
+    "Modern infrastructure supports diverse business engagements."
+  ],
+  "things_to_know": [
+    "Traffic congestion is significant; factor in ample travel time.",
+    "English is widely spoken in business and professional settings.",
+    "Digital payments are prevalent and often preferred.",
+    "Business attire is generally formal for meetings."
+  ],
+  "nearby_transport": [
+    "Namma Metro provides connectivity to key business districts.",
+    "Ride-sharing apps like Uber and Ola are widely available.",
+    "Auto-rickshaws are common for shorter distances.",
+    "BMTC buses offer extensive city-wide routes."
+  ],
+  "how_to_get_there": "Fly into Kempegowda International Airport (BLR), well-connected globally. Major railway stations also serve the city.",
+  "best_time_to_travel": "October to February offers pleasant, cooler weather, ideal for business travel."
+}

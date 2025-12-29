@@ -1,0 +1,25 @@
+python travel_info.py "Istanbul" leisure
+{
+  "place": "Istanbul",
+  "purpose": "leisure",
+  "overview": [
+    "Explore iconic historical sites like Hagia Sophia and Blue Mosque.",
+    "Indulge in vibrant bazaars and authentic Turkish culinary delights.",
+    "Enjoy a scenic Bosphorus cruise, connecting two continents.",
+    "Discover diverse neighborhoods, from historic Sultanahmet to trendy Karaköy."
+  ],
+  "things_to_know": [
+    "Currency is Turkish Lira (TRY).",
+    "Dress modestly when visiting mosques and religious sites.",
+    "Bargaining is common and expected in local markets.",
+    "Tipping is customary for good service in restaurants and hotels."
+  ],
+  "nearby_transport": [
+    "Metro: Extensive network connecting major city areas.",
+    "Tram: Efficient for exploring the historical peninsula.",
+    "Ferry: Scenic way to cross the Bosphorus and visit the Asian side.",
+    "Bus: Comprehensive routes, but can be affected by traffic."
+  ],
+  "how_to_get_there": "Fly into Istanbul Airport (IST) or Sabiha Gökçen International Airport (SAW).",
+  "best_time_to_travel": "Spring (April-May) and Autumn (September-October) offer pleasant weather."
+}
